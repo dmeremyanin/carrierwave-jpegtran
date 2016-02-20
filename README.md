@@ -2,7 +2,7 @@
 
 This gem allows you to optimize your JPEG uploads with [jpegtran](http://linux.die.net/man/1/jpegtran) using the [jpegtran-ruby](https://github.com/dimko/jpegtran-ruby) gem.
 
-![Travis CI](https://travis-ci.org/dimko/carrierwave-jpegtran.svg)
+[![travis](https://travis-ci.org/dimko/carrierwave-jpegtran.svg)](https://travis-ci.org/dimko/carrierwave-jpegtran)
 
 ### Installation
 
