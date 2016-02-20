@@ -33,7 +33,7 @@ class ImageUploader < CarrierWave::Uploader::Base
   # or
 
   version :thumbnail do
-    process :optimize, copy: :none # to a single image version with the option `-copy none`
+    process optimize: { copy: :none } # to a single image version with the option `-copy none`
   end
 end
 ```
